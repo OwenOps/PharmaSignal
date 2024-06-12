@@ -1,0 +1,632 @@
+[
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "15922d7a9040418185d9a073684a775e591ee060",
+        "fields": {
+            "nofinessej": 750008922,
+            "typvoie": "RUE",
+            "dateouv": "1993-03-26",
+            "rs": "PHARMACIE DES CAPUCINES",
+            "telephone": 142610307,
+            "lng": 2.3297223,
+            "departement": 75,
+            "commune": "PARIS 02",
+            "cp": 75002,
+            "libdepartement": "PARIS",
+            "voie": "DES CAPUCINES",
+            "numvoie": 8,
+            "dateautor": "1943-06-08",
+            "datemaj": "2010-08-25",
+            "telecopie": 142612549,
+            "nofinesset": 750008930,
+            "wgs84": [
+                48.8687628,
+                2.3297223
+            ],
+            "lat": 48.8687628
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3297223,
+                48.8687628
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "e4a8f135720876180af09101352f5d9dad1f8021",
+        "fields": {
+            "nofinessej": 750009201,
+            "typvoie": "RUE",
+            "dateouv": "1999-05-12",
+            "rs": "GRANDE PHARMACIE LA PAIX OPERA",
+            "telephone": 147425625,
+            "lng": 2.3320751,
+            "departement": 75,
+            "commune": "PARIS 02",
+            "cp": 75002,
+            "libdepartement": "PARIS",
+            "voie": "DE LA PAIX",
+            "numvoie": 24,
+            "dateautor": "1943-07-05",
+            "datemaj": "2007-07-11",
+            "telecopie": 140179055,
+            "nofinesset": 750009227,
+            "wgs84": [
+                48.8699314,
+                2.3320751
+            ],
+            "lat": 48.8699314
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3320751,
+                48.8699314
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "14113f62ec9c2866b1d5d7414f7b4ec4c907492a",
+        "fields": {
+            "nofinessej": 750009250,
+            "typvoie": "RUE",
+            "dateouv": "1993-06-29",
+            "rs": "PHARMACIE INTERNATIONALE CENTRALE",
+            "telephone": 145085108,
+            "lng": 2.3495752,
+            "departement": 75,
+            "commune": "PARIS 02",
+            "cp": 75002,
+            "libdepartement": "PARIS",
+            "voie": "SAINT DENIS",
+            "numvoie": 143,
+            "dateautor": "1942-11-10",
+            "datemaj": "2009-02-27",
+            "nofinesset": 750009276,
+            "wgs84": [
+                48.8626681,
+                2.3495752
+            ],
+            "lat": 48.8626681
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3495752,
+                48.8626681
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "fa3bd6e1aa4afc28f2031ea713a3ade19b444e8d",
+        "fields": {
+            "nofinessej": 750009433,
+            "typvoie": "RUE",
+            "dateouv": "2011-03-01",
+            "rs": "SELURL PHARMACIE VICTOIRE OPERA",
+            "telephone": 142968999,
+            "lng": 2.3362734,
+            "departement": 75,
+            "commune": "PARIS 02",
+            "cp": 75002,
+            "libdepartement": "PARIS",
+            "voie": "DES PETITS CHAMPS",
+            "numvoie": 26,
+            "dateautor": "1942-12-10",
+            "datemaj": "2011-07-22",
+            "telecopie": 142602116,
+            "nofinesset": 750009441,
+            "wgs84": [
+                48.8669359,
+                2.3362734
+            ],
+            "lat": 48.8669359
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3362734,
+                48.8669359
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "8b74488a340922d076268940ff4bcf442fecebfb",
+        "fields": {
+            "nofinessej": 750010621,
+            "typvoie": "RUE",
+            "dateouv": "2006-09-04",
+            "rs": "PHARMACIE RIVOLI",
+            "telephone": 148876185,
+            "lng": 2.3579565,
+            "departement": 75,
+            "commune": "PARIS 04",
+            "cp": 75004,
+            "lieuditbp": "13 RUE DE RIVOLI",
+            "libdepartement": "PARIS",
+            "voie": "TIRON",
+            "numvoie": 2,
+            "dateautor": "1942-11-12",
+            "datemaj": "2008-11-25",
+            "telecopie": 148876185,
+            "nofinesset": 750010654,
+            "wgs84": [
+                48.8557182,
+                2.3579565
+            ],
+            "lat": 48.8557182
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3579565,
+                48.8557182
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "a9dc3a4c98f4d941d8b5e8e65b53b0adba1872fb",
+        "fields": {
+            "nofinessej": 750010662,
+            "typvoie": "RUE",
+            "dateouv": "2008-03-03",
+            "rs": "MA PHARMACIE BASTILLE",
+            "telephone": 142726743,
+            "lng": 2.3672793,
+            "departement": 75,
+            "commune": "PARIS 04",
+            "cp": 75004,
+            "libdepartement": "PARIS",
+            "voie": "DES TOURNELLES",
+            "numvoie": 1,
+            "dateautor": "1943-05-11",
+            "datemaj": "2013-05-24",
+            "telecopie": 142722570,
+            "nofinesset": 750010670,
+            "wgs84": [
+                48.8538366,
+                2.3672793
+            ],
+            "lat": 48.8538366
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3672793,
+                48.8538366
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "0e5d5a4d5dda2310c0783dab59f39e34e0cfa8b1",
+        "fields": {
+            "nofinessej": 750010928,
+            "typvoie": "BOULEVARD",
+            "dateouv": "2011-12-30",
+            "rs": "SELARL PHARMACIE KESSLER BEST",
+            "telephone": 147008504,
+            "lng": 2.3700347500000003,
+            "departement": 75,
+            "commune": "PARIS 11",
+            "cp": 75011,
+            "libdepartement": "PARIS",
+            "voie": "RICHARD LENOIR",
+            "numvoie": 130,
+            "dateautor": "2003-08-01",
+            "datemaj": "2012-07-17",
+            "telecopie": 147001876,
+            "nofinesset": 750011009,
+            "wgs84": [
+                48.86569887,
+                2.3700347500000003
+            ],
+            "lat": 48.86569887
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3700347500000003,
+                48.86569887
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "ad4b5a9b7f8fb88f23cb7b1ae07d6bea8115e32c",
+        "fields": {
+            "nofinessej": 750011140,
+            "typvoie": "RUE",
+            "dateouv": "2004-06-01",
+            "rs": "PHARMACIE NOTRE DAME",
+            "telephone": 143542077,
+            "lng": 2.3481929,
+            "departement": 75,
+            "commune": "PARIS 05",
+            "cp": 75005,
+            "libdepartement": "PARIS",
+            "voie": "LAGRANGE",
+            "numvoie": 11,
+            "dateautor": "1943-05-05",
+            "datemaj": "2010-08-25",
+            "telecopie": 143267791,
+            "nofinesset": 750011173,
+            "wgs84": [
+                48.8512219,
+                2.3481929
+            ],
+            "lat": 48.8512219
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3481929,
+                48.8512219
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "f1e7c23eb8c426ab010fe8b3bb4d26dddc4c2cb9",
+        "fields": {
+            "nofinessej": 750011181,
+            "typvoie": "RUE",
+            "dateouv": "2010-08-16",
+            "rs": "SELARL PHARMACIE DES ARENES DE LUTECE",
+            "telephone": 147071286,
+            "lng": 2.3547407,
+            "departement": 75,
+            "commune": "PARIS 05",
+            "cp": 75005,
+            "libdepartement": "PARIS",
+            "voie": "LINNE",
+            "numvoie": 1,
+            "dateautor": "1942-11-11",
+            "datemaj": "2011-07-21",
+            "telecopie": 147071337,
+            "nofinesset": 750011256,
+            "wgs84": [
+                48.8437365,
+                2.3547407
+            ],
+            "lat": 48.8437365
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3547407,
+                48.8437365
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "6c4e9966749fda79aca174fe611f84df70e09aaa",
+        "fields": {
+            "nofinessej": 750011421,
+            "typvoie": "RUE",
+            "dateouv": "1994-12-30",
+            "rs": "PHARMACIE LAXAN",
+            "telephone": 143317290,
+            "lng": 2.3515551,
+            "departement": 75,
+            "commune": "PARIS 05",
+            "cp": 75005,
+            "libdepartement": "PARIS",
+            "voie": "MONGE",
+            "numvoie": 96,
+            "dateautor": "1942-11-11",
+            "datemaj": "2010-08-25",
+            "telecopie": 143317290,
+            "nofinesset": 750011447,
+            "wgs84": [
+                48.8407303,
+                2.3515551
+            ],
+            "lat": 48.8407303
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3515551,
+                48.8407303
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "3ef6df656e9b2e9418ba2d6c4e6fbe1b46d4bbb3",
+        "fields": {
+            "nofinessej": 750011496,
+            "typvoie": "RUE",
+            "dateouv": "2008-11-01",
+            "rs": "PHARMACIE DU 5EME",
+            "telephone": 143314144,
+            "lng": 2.3497131,
+            "departement": 75,
+            "commune": "PARIS 05",
+            "cp": 75005,
+            "libdepartement": "PARIS",
+            "voie": "MOUFFETARD",
+            "numvoie": 89,
+            "dateautor": "1943-05-27",
+            "datemaj": "2008-11-21",
+            "telecopie": 147073543,
+            "nofinesset": 750011504,
+            "wgs84": [
+                48.8416162,
+                2.3497131
+            ],
+            "lat": 48.8416162
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3497131,
+                48.8416162
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "378c536a2019a313316c073948532fff843eab1e",
+        "fields": {
+            "nofinessej": 750011595,
+            "typvoie": "BOULEVARD",
+            "dateouv": "2006-10-01",
+            "rs": "PHARMACIE PORT ROYAL BERTHOLLET",
+            "telephone": 143315750,
+            "lng": 2.3460457,
+            "departement": 75,
+            "commune": "PARIS 05",
+            "cp": 75005,
+            "libdepartement": "PARIS",
+            "voie": "DE PORT ROYAL",
+            "numvoie": 58,
+            "dateautor": "1942-11-11",
+            "datemaj": "2010-08-25",
+            "telecopie": 143315750,
+            "nofinesset": 750011603,
+            "wgs84": [
+                48.8377087,
+                2.3460457
+            ],
+            "lat": 48.8377087
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3460457,
+                48.8377087
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "affa12fbcfa29c0e7018a1906f97bf4fc4b2dd68",
+        "fields": {
+            "nofinessej": 750011892,
+            "typvoie": "RUE",
+            "dateouv": "2004-12-01",
+            "rs": "PHARMACIE SAINT JACQUES",
+            "telephone": 143542579,
+            "lng": 2.3414429,
+            "departement": 75,
+            "commune": "PARIS 05",
+            "cp": 75005,
+            "libdepartement": "PARIS",
+            "voie": "SAINT JACQUES",
+            "numvoie": 243,
+            "dateautor": "1942-11-11",
+            "datemaj": "2009-02-27",
+            "telecopie": 140460189,
+            "nofinesset": 750011934,
+            "wgs84": [
+                48.8428621,
+                2.3414429
+            ],
+            "lat": 48.8428621
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3414429,
+                48.8428621
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "572a03b9a3aab81337dce175a34088186d2dfb6c",
+        "fields": {
+            "nofinessej": 750012072,
+            "typvoie": "BOULEVARD",
+            "dateouv": "2009-07-09",
+            "rs": "PHARMACIE INTERNATIONALE SAINT MICHEL",
+            "telephone": 143541436,
+            "lng": 2.3405042,
+            "departement": 75,
+            "commune": "PARIS 05",
+            "cp": 75005,
+            "libdepartement": "PARIS",
+            "voie": "SAINT MICHEL",
+            "numvoie": 71,
+            "dateautor": "1943-05-05",
+            "datemaj": "2009-08-12",
+            "telecopie": 143545909,
+            "nofinesset": 750012106,
+            "wgs84": [
+                48.8463255,
+                2.3405042
+            ],
+            "lat": 48.8463255
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3405042,
+                48.8463255
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "1650f6b7d2835ef64b324c6cca34e5c43e9379dd",
+        "fields": {
+            "nofinessej": 750012627,
+            "typvoie": "RUE",
+            "dateouv": "1970-12-14",
+            "rs": "PHARM FALDINI",
+            "telephone": 143260925,
+            "lng": 2.3348491,
+            "departement": 75,
+            "commune": "PARIS 06",
+            "cp": 75006,
+            "libdepartement": "PARIS",
+            "voie": "DU FOUR",
+            "numvoie": 8,
+            "dateautor": "1942-05-10",
+            "datemaj": "2010-08-25",
+            "telecopie": 143258630,
+            "nofinesset": 750012643,
+            "wgs84": [
+                48.8529433,
+                2.3348491
+            ],
+            "lat": 48.8529433
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3348491,
+                48.8529433
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "7152a6f849a3a0187b0dd0c6674d12f587655964",
+        "fields": {
+            "nofinessej": 750012734,
+            "typvoie": "RUE",
+            "dateouv": "1975-09-19",
+            "rs": "PHARM ZAGORSKI",
+            "telephone": 143269969,
+            "lng": 2.3362217,
+            "departement": 75,
+            "commune": "PARIS 06",
+            "cp": 75006,
+            "libdepartement": "PARIS",
+            "voie": "JACOB",
+            "numvoie": 6,
+            "dateautor": "1942-11-11",
+            "datemaj": "2009-07-03",
+            "telecopie": 143269969,
+            "nofinesset": 750012742,
+            "wgs84": [
+                48.8547705,
+                2.3362217
+            ],
+            "lat": 48.8547705
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3362217,
+                48.8547705
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "83bb684ed70355f5e8abaf46338ef7ce9b7c97c9",
+        "fields": {
+            "nofinessej": 750013617,
+            "typvoie": "AVENUE",
+            "dateouv": "2011-06-14",
+            "rs": "SARL PHARMACIE  BOSQUET",
+            "telephone": 147059113,
+            "lng": 2.3045876,
+            "departement": 75,
+            "commune": "PARIS 07",
+            "cp": 75007,
+            "libdepartement": "PARIS",
+            "voie": "BOSQUET",
+            "numvoie": 46,
+            "dateautor": "1943-04-16",
+            "datemaj": "2011-10-25",
+            "telecopie": 147059849,
+            "nofinesset": 750013625,
+            "wgs84": [
+                48.8559992,
+                2.3045876
+            ],
+            "lat": 48.8559992
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3045876,
+                48.8559992
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    },
+    {
+        "datasetid": "carte-des-pharmacies-dile-de-france",
+        "recordid": "4064d7b244fea6de34e22ad5f02f11161d770cc2",
+        "fields": {
+            "nofinessej": 750013757,
+            "typvoie": "RUE",
+            "dateouv": "2007-07-31",
+            "rs": "PHARMACIE FAUGERAS",
+            "telephone": 145513611,
+            "lng": 2.3063387,
+            "departement": 75,
+            "commune": "PARIS 07",
+            "cp": 75007,
+            "libdepartement": "PARIS",
+            "voie": "CLER",
+            "numvoie": 35,
+            "dateautor": "1943-04-28",
+            "datemaj": "2009-07-03",
+            "telecopie": 145503895,
+            "nofinesset": 750013765,
+            "wgs84": [
+                48.8570996,
+                2.3063387
+            ],
+            "lat": 48.8570996
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.3063387,
+                48.8570996
+            ]
+        },
+        "record_timestamp": "2014-08-13T22:12:01Z"
+    }
+]

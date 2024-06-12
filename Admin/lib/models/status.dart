@@ -1,0 +1,5 @@
+
+enum Status {
+  enCours,
+  terminated,
+}
